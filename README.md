@@ -1,1 +1,1 @@
-# girhub-up-n-running
+# github-up-n-running
